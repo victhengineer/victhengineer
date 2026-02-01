@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Victor Kipchumba</h1>
-<h3 align="center">Kenyan Software Engineering Student at ALX Cohort 20</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="rigth" alt="Coding" width="" src="https://miro.medium.com/v2/resize:fit:720/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kipchumbaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="kipchumbaofficial" /> </p>
 
